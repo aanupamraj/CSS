@@ -1,0 +1,12 @@
+/* img{
+    height: 400px;
+    width: 800px;
+    filter: brightness(80%), contrast(100%);
+} */
+
+#sprite{
+    height: 128px;
+    background-image: url('images/sprite.png');
+    background-repeat: no-repeat;
+    background-position: 0px -288px;
+}
