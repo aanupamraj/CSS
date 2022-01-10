@@ -1,0 +1,13 @@
+#parent{
+
+    border: 1px solid red;
+    width: 50vh;
+    height: 50vw;
+    color: yellowgreen
+}
+#child{
+
+    border: 1px solid blue !important;
+    width: 50%;
+
+}

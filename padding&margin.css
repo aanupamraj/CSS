@@ -1,0 +1,24 @@
+/* #padding{
+    border: 1px solid;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 25px;
+    padding-right: 40px;
+} */
+body{
+    border: 5px solid black;
+}
+.margin1{
+    border: 1px solid;
+    /* padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 25px;
+    padding-right: 40px; */
+    padding: 50px;
+}
+#margin{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+}
