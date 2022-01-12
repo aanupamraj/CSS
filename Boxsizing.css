@@ -1,0 +1,30 @@
+/* #div1{
+    background-color: brown;
+    width: 700px;
+    height: 300px;
+}
+#div2{
+    background-color: greenyellow   ;
+    width: 700px;
+    height: 300px;
+    padding: 50px;
+    border: 10px solid black;
+} */
+#green{
+    color: green;
+    font: bold;
+    font-size: 17px;
+
+}
+#blue{
+    color: red;
+
+}
+#initial{
+    color: initial;
+
+}
+#inherit{
+    color: inherit;
+
+}
