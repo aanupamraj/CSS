@@ -1,0 +1,21 @@
+li{
+    color: blue;
+}
+#list2{
+    color: brown;
+}
+.list5{
+    color: chartreuse;
+}
+a:hover{
+    color: chocolate;
+}
+p::first-line{
+    color: darkgoldenrod;
+}
+a[href="www.google.com"]{
+    color: green;
+}
+*{
+    border: 1px solid red;
+}
